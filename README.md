@@ -1,6 +1,5 @@
 # Finding Rainbow
 Hello readers, This is our first website, created at Makeathon 4.0 with basic knowledge of HTML and CSS, as first year COE students. We hope to make even better websites in the future, but for now, we hope you like it!
-<br>
 # Certificate - MLSC Makeathon 4.0
 <br>
 <br>

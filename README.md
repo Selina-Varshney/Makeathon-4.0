@@ -1,11 +1,8 @@
-# Finding Rainbow
-Hello readers, This is our first website, created at Makeathon 4.0 with basic knowledge of HTML and CSS, as first year COE students. We hope to make even better websites in the future, but for now, we hope you like it!
+# About 
+Hello readers, This is our first website- "Finding Rainbow", created at Makeathon 4.0 with basic knowledge of HTML and CSS, as first year COE students. We hope to make even better websites in the future, but for now, we hope you like it!
 # Certificate - MLSC Makeathon 4.0
-<br>
-<br>
-<img width="723" alt="image" src="https://github.com/Selina-Varshney/Makeathon-4.0/assets/99686864/1cd385e7-4867-483d-b31d-a0daa10d659b">
-<br>
-<br>
+![44715593-0fb1-4100-96b0-320d54828fef](https://github.com/Selina-Varshney/Makeathon-4.0/assets/99686864/cd18f676-5fcf-4dd0-a0c4-2efe04c5322f)
+# Finding Rainbow
 This website is aimed at creating awareness about the LGBTQ community, and has pages with information on different terms assosciated with the community, a general knowledge trivia, sources and even links to support small scale businesses run by the LGBTQ community!
 <br>
 <br>

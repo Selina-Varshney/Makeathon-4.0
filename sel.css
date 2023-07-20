@@ -1,0 +1,88 @@
+body{
+    background-image: linear-gradient(rgb(252, 252, 252,0.5),rgba(4,9,30,0.1)),url("https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1593444400/1593444399.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+  
+}
+
+p{
+    font-size: 25px;
+    text-align: center;
+
+}
+
+p.info2{
+    font-size: 25px;
+    text-align: center;
+    background-color: burlywood;
+    padding: 10px;
+
+}
+
+ul.links{
+    list-style-type: none;
+    background-color: antiquewhite;
+    padding: 10px;
+    
+}
+  
+  li{
+    font-size: 25px;
+    text-align: center;
+   
+  }
+  
+
+.header{
+    min-height:100vh;
+    width:100%;
+    font-weight: 700;
+    /* background-image: linear-gradient(rgb(252, 252, 252,0.5),rgba(4,9,30,0.7)),url(); */
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+nav{
+    display: flex;
+    padding:2% 6%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+nav img{
+    width: 150px;
+
+}
+.nav-links{
+    flex: 1;
+    text-align: right;
+}
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+.nav-links ul li a{
+    color: rgb(12, 11, 12);
+    text-decoration: none;
+    font-size : 30px;
+}
+.nav-links ul li::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #e7da67;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+.nav-links ul li:hover::after{
+    width: 100%;
+}
